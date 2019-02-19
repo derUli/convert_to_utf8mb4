@@ -4,8 +4,7 @@
 <form action="#" method="get">
 	<div id="convert-container">
 		<p><?php translate("convert_to_utf8mb4_help_text")?></p>
-		<input type="button" id="btn_start_conversion"
-			value="<?php translate("start_conversion");?>">
+		<button type="button" id="btn_start_conversion"><i class="fas fa-exchange-alt"></i> <?php translate("start_conversion");?>"></button>
 	</div>
 </form>
 <script type="text/javascript"

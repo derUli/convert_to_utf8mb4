@@ -1,7 +1,7 @@
 {
    "id" : "convert_to_utf8mb4",
-   "version" : "0.9.1",
+   "version" : "0.9.2",
    "description" : "Convert database to utf8mb4",
    "categories" : ["database", "charset", "encoding", "emojis", "utf8", "utf8mb4"],
-   "compatible_from" : "2017.3.12"
+   "compatible_from" : "2019.1.3"
 }

@@ -1,6 +1,6 @@
 {
 	"source" : "extend",
-	"version" : "0.9.1",
+	"version" : "0.9.2",
 	"embed" : false,
 	"controllers" : {
 		"ConvertToUTF8MB4" : "ConvertToUTF8MB4.php",
